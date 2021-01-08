@@ -1,1 +1,1 @@
-👋 Hello! I'm Cyzorz, I primarily code in Python but I am also exceptional in C# and C++. I'm in my senior year of high school looking towards a career in Data Science, and ### I'm always looking for more material to learn!
+👋 Hello! I'm Cyzorz, I primarily code in Python but I am also exceptional in C# and C++. I'm in my senior year of high school looking towards a career in Data Science, and I'm always looking for more material to learn!
