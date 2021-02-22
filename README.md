@@ -2,6 +2,10 @@
 
 👋 Hello! I'm Cyzorz I'm in my senior year of High School and I have been doing backend programming for around half a year now. I hope to take my skills to the next level in the coming years and hopefully land a good job.
 
+**Stats**
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyzorz)](https://github.com/anuraghazra/github-readme-stats)
+
 **Skills**
 
   - I know Python and C++ very well. 
@@ -31,5 +35,3 @@ Some of the projects/groups I am involved with include the following:
  Twitter: [@Cyzorz](https://twitter.com/Cyzorz)
  
  Project Website: https://questybot.xyz
- 
- 
