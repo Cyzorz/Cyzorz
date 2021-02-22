@@ -2,9 +2,13 @@
 
 👋 Hello! I'm Cyzorz I'm in my senior year of High School and I have been doing backend programming for around half a year now. I hope to take my skills to the next level in the coming years and hopefully land a good job.
 
-**Stats**
+**Language Stats**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyzorz&theme=cobalt&langs_count=3&include_all_commits=true&layout=compact)
+
+**GitHub Stats**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyzorz&show_icons=true&theme=cobalt&include_all_commits=true)
 
 **Skills**
 
