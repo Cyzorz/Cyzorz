@@ -6,10 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyzorz&theme=cobalt&langs_count=3&include_all_commits=true&layout=compact)
 
-**GitHub Stats**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyzorz&show_icons=true&theme=cobalt&include_all_commits=true)
-
 **Skills**
 
   - I know Python and C++ very well. 
@@ -31,6 +27,10 @@ Some of the projects/groups I am involved with include the following:
  **Goals**
  
  I hope to be able to get a career in Data Science, which means im looking to get at least a bachelor's in computer science and at least a master's in statistics. My preferences would be towards the buisiness side of the career, but I am flexible. 
+ 
+ **GitHub Stats**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyzorz&show_icons=true&theme=cobalt&include_all_commits=true)
  
  **Contact**
  
