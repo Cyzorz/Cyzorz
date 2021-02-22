@@ -4,7 +4,7 @@
 
 **Stats**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyzorz&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyzorz&theme=cobalt&langs_count=3&include_all_commits=true&layout=compact)
 
 **Skills**
 
