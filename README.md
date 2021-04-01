@@ -4,7 +4,7 @@
 
 ### **Language Stats**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyzorz&theme=cobalt&langs_count=3&include_all_commits=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyzorz&theme=dark&langs_count=2&include_all_commits=true&layout=compact)
 
 ### **Skills**
 
@@ -30,7 +30,7 @@ Some of the projects/groups I am involved with include the following:
  
 ###  **GitHub Stats**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyzorz&show_icons=true&theme=cobalt&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyzorz&theme=dark&include_all_commits=true)
  
 ### **Contact**
  
