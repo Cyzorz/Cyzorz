@@ -6,7 +6,7 @@
 
   - I commonly work with Java, C++, and Python, but I am flexible.
   - I can work well with relational databases.
-  - I have a years worth of back-end development experience.
+  - I have two years worth of back-end development experience.
   - I am a good communicator.
   - I have a good knowledge of Unix-based Operating Systems.
   - I can work with pen testing tools such as THC Hydra, Metasploit, and SQLMap
