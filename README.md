@@ -17,7 +17,9 @@ Some of the projects/groups I am involved with include the following:
  
 ### **Goals**
 
-I am hoping to get my degree in Data Science from University of California, Berkeley in the next 4 years, and move on to getting a job at a larger company with a focus on economic trends.
+- Finish Bachelor's in Computer Science
+- Land a good job at a software company
+- Learn more about programming (duh)
 
 ###  **GitHub Stats**
 
