@@ -1,7 +1,3 @@
-### **Language Stats**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyzorz&theme=dark&langs_count=2&layout=compact)
-
 ### **Skills**
 
   - I commonly work with Java, C++, and Python, but I am flexible.
