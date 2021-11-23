@@ -29,8 +29,6 @@ Some of the projects/groups I am involved with include the following:
  
  Discord: Cyzorz#0001
  
- Twitter: [@Cyzorz](https://twitter.com/Cyzorz)
- 
  Project Website: https://questybot.xyz
  
  Personal Website: https://cyz.dev
